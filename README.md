@@ -1,0 +1,2 @@
+# twitter_erd
+hc_practiceリポジトリのサブモジュール
